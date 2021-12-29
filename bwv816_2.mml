@@ -1,0 +1,165 @@
+;[gain=1.0 name=bwv816_2 duration=300s fade=5s cpu=0]
+#opll_mode 0
+#tempo 110
+#title {"BWV816 Courante"}
+
+@15={
+;       TL FB
+        24, 3,
+; AR DR SL RR KL MT AM VB EG KR WF
+  15, 3, 3, 1, 0, 5, 0, 0, 0, 1, 1,
+  15, 2, 1, 1, 0, 2, 0, 0, 0, 1, 1 }
+
+ABC l16@15v13
+
+ABC [ q7
+
+A o5
+B o4
+C o3
+
+A g 
+B r
+C r 
+
+A g8f+edc<bab>d<a>c
+B b4r2
+C g4r8>d8g8f+8
+
+A <b8g8b8>d8g8f+8
+B r2.
+C g8f+e dc<ba b>d<a>c
+
+A gabgdfedeab>c
+B r2.
+C <b8q4g8b8g8>c8<a8q7
+
+A <q8f+32g32f+32g32q7d8redc<b>d<a>d
+B r2.
+C >d8c<bagf+edf+cf+
+
+A <g>d<f+>d<g>dc<bagf>d
+B r2.
+C <b8a8q4b8g8a8b8q7
+
+A <e>d<d>d<e>dc<baga>c
+B r2.
+C >c8<b8>q4c8<a8b8>c8q7
+
+A <f+edef+gab>c<a>d<a
+B r2.
+C d8c<bagf+edf+a>d
+
+A b2r8b8
+B rgf+edc<bagbf+a
+C <g4r2
+
+A >ef+ge<b>ef+gd+agf+
+B r2.
+C > g8q4e8g8e8b8<b8>q7
+
+A g8q4e8g8d8c+8a8q7
+B r2.
+C ef+gec+g<b>g<a>gf+e
+
+A def+d <a>c<ba b>ef+g
+B r2.
+C f+8q4d8f+8d8g8e8q7
+
+A q8c+32d32c+32d32q4<a8r8q7ab>c+dec+
+B r2.
+C a8gf+edc+<ba>e<g>e
+
+A de<a>c+ de<a>d<f+>d<a>e
+B r2.
+C <f+8e8q4f+8a8>d8<f+8q7
+
+A de<b>c+de<b>d<g>d<b>d
+B r2.
+C g8a8q4b8g8e8g8q7
+
+A c+dec+ <gbag f+>d<e>c+
+B r2r8a8
+C a8b8>c+8d8<a4
+
+A d8c+<b agf+e d4r
+B f+4f+8a8> r4r
+C r8>d4. d4r
+
+ABC ]2
+
+ABC [
+
+A o5
+B o5
+C o4
+
+A f+
+B r
+C r
+
+A f+4 r8de f+gaf+ 
+B d4r4r4
+C d8c<b agf+e daca
+
+A g8f+e dc<ba gb>df
+B r2.
+C <b8>d8 g8a8 b8g8
+
+A edc<b a>f+ga gf+ge
+B r2.
+C >c8e8 q4c8<b8> c8<a8q7
+
+A q8d+32e32d+32e32<q4b8r8>q7ba gf+ed+
+B r2.
+C b8ag f+ed+c+ <b>f+<a>f+
+
+A e8f+d+ e8f+d+ e4&
+B r2 r8<b8
+C <gaf+a gaf+a gbeg
+
+A e2&e8a8
+B >c8d<b> c8d<b> c8c8
+C abgb abgb a>c<f+a
+
+A g8f+4 e8&e<a>ed+
+B <b8a8 g4 f+4
+C b8>c+d+ ef+ga q4b8<b8q7
+
+A e2&e8e8
+B r8>c8< b8a8 g8r8
+C >e8f+g ab>c+d+ ec+d<b
+
+A <a8b>c+ def+g af+ge
+B r2.
+C >c+dc+<b agf+e f+>d<e>c+
+
+A f+gf+e def+g ab>c<a
+B r2.
+C d8<de f+gab> cdef+
+
+A bf+gd e<b>c<g a>c<eg
+B r2.
+C g8<g8 >q4c8e8 c8<a8q7
+
+A f+ade f+gab > cdef+
+B r2.
+C >d8c<b agf+e daca
+
+A gadf+ gadg <b>gda
+B r2.
+C <b8a8 q4b8>d8 g8<b8q7
+
+A gaef+ gaeg <a>geg
+B r2.
+C >c8d8 q4e8c8 <a8>c8q7
+
+A f+gaf+ cedc <b>g<a>f+
+B r2r8c8
+C d8e8 f+8g8 d4
+
+A g8f+edc<ba g4rr
+B <b4b8>d8 g4rr
+C r8 g4.&g4rr
+
+ABC ]2

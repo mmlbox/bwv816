@@ -1,0 +1,133 @@
+;[gain=1.0 name=bwv816_4 duration=300s fade=5s cpu=0]
+#opll_mode 0
+#tempo 160
+#title {"BWV816 Gavotte"}
+
+@15={
+;       TL FB
+        24, 3,
+; AR DR SL RR KL MT AM VB EG KR WF
+  15, 3, 3, 1, 0, 5, 0, 0, 0, 1, 1,
+  15, 2, 1, 1, 0, 2, 0, 0, 0, 1, 1 }
+
+ABC l8 @15v13
+
+ABC [
+
+A o5 
+B o5 
+C o3 
+
+A q4 b4g4
+B q4 d4<b4
+C q4 g4>g4
+
+A q8d4ef+q4g4e4
+B q8a2   q4b4g4
+C q8f+4<f+4q4e4>e4
+
+A q8<b2q4>e4c4
+B q8f+2q4g4a4
+C q8d4<d4q4c4>c4
+
+A q8<a4b>q7c q8d<b>c<q7a
+B q4f+2a2
+C q8d4<a4f+4d4
+
+A q8>c<baq7g >q4b4g4
+B q4g2>d4<b4
+C q8g4d4<q7gq8>def+
+
+A q7e4q8eq7f+q4g4e4
+B q7>c+4q8c+q7dq4e4c+4
+C q7gagf+edef+
+
+A q8c+4dq7eq8f+dgq7e
+B q8<a1&
+C gab>c+q8d4c+4
+
+A q8f+q7da4q8gq7f+q8eq7f+
+B a4>d2q7c+4
+C d4<f+gq4a4<a4
+
+A q8d2
+B r2
+C q8>d2
+
+ABC ]2
+
+ABC [
+
+A o4 
+B o4 
+C o4
+
+A q4a4>d4 
+B q4f+4a4
+C q4d4<a4  
+
+A q8f+2 gf+eq7d
+B q8>d2 r2
+C q8gf+eq7dq4a4>c4
+
+A q8<g12>q7g6 d4 q4b4g4
+B q8r24d24&q7d6 r4 q4g4<b4
+C q8<b>c<bagabg
+
+A q8e4f+q7g q4 a4f+4
+B q8g4aq7bq4>c4<a4
+C q7>cdc<bab>c<a
+
+A q8d+2q7<b>c+d+e
+B q8f+2&f+4q4f+4
+C q8b4<b4r2
+
+A f+gf+ed+ef+g
+B q7d+4q8d+q7eq4f+4d+4
+C r1
+
+A abagf+gab
+B r1
+C q7>b4q8b>c+q4d+4<b4
+
+A >q8cq7<aq4b4q7e4q8f+q7d+
+B r2q7g4a4
+C q8gf+gaq4b4<b4
+
+A q8e2q4<b4>e4
+B q8g2q4g4b4
+C q8>e4<b4ef+ga
+
+A q8g2q7c<bag
+B q8>d2r2
+C q7b>cdefgab
+
+A >q8fq7dq4e4<q7f+gab
+B r1
+C >cdc<bagf+e
+
+A >c<ab>cdcde
+B r1
+C dc<bagab>c
+
+A q8<a2q4>>c4<a4
+B q8<f+2>q4a4d4
+C q6d<af+a q7def+g
+
+A q7f+4q8f+q7gq4a4f+4
+B q8c2q4c4<a4
+C abagf+gab
+
+A q7d4q8dq7eq8f+gaq7f+
+B q8f+2>c2
+C >cdc<b ab>cd
+
+A q8gq7eq4a4q8f+24g24f+24&f+4q7g8
+B q7<b4>c4<q8a2
+C q8e4c4q4d4<d4
+
+A q8g2..r
+B q8b2..r
+C q8g2..r
+
+ABC ]2

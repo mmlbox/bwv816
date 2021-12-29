@@ -1,0 +1,134 @@
+;[gain=1.0 name=bwv816_1 duration=300s fade=5s cpu=0]
+#opll_mode 0
+#tempo 72
+#title {"BWV816 Allemande"}
+
+@15={
+;       TL FB
+        24, 3,
+; AR DR SL RR KL MT AM VB EG KR WF
+  15, 3, 3, 1, 0, 5, 0, 0, 0, 1, 1,
+  15, 2, 1, 1, 0, 2, 0, 0, 0, 1, 1 }
+
+ABC l16
+
+ABC @15 v13 [
+
+A o4
+B o3
+C o3
+
+A b 
+B r
+C r 
+
+A b8.>c l32dcdcdc<b>cl16d4&ddf+g
+B gb>dg& ggf+e rdf+g&g4& 
+C g4a4b4.b8 
+
+A egdgc<b>cac<bagb4& 
+B g4.f+8 r8<b8>d8g8
+C >c8<b8a4g4&gf+ed
+
+A b>e<a>e< gf+g>e< gf+ed ef+gf+
+B e8<e8a4 r8f+8a4
+C c+4.c+8 d4.c8
+
+A gagal32g16ababgal16b4&bb>ed+
+B d8g4f+8g4r4
+C <b4a4rgb>dg8ab
+
+A ef+ef+ el32f+gf+gef+l16g4&gf+ed
+B r8>e4d+8 e4 r4<
+C c8g8a8b8>e<bgb e8g8
+
+A c+e<b>e<a>gf+ef+aea dc<ba
+B r8b8>c+4d2&
+C a4.a8d8e8f+8d8
+
+A b>d<a>d <g>d<f+>d <e>dc+<b> c+e<a>g
+B d8c8<b8a8g4.e8
+C g2&g8e8<a8>c+8
+
+A f+ef+d l32c+dc+dl16c+dd4&df+a>c<
+B d8.ef+8g8f+>r<g>r<a>r<f+>r<
+C d8<g8a4> d>d<e>d<f+>d<d>d<
+
+A b8.agf+edg8.f+edc+<b>
+B r1
+C g>d<a>d<b>d<g>d<e>d<f+>d<g>d<e>d<
+
+A c+<a>d<a>e<a>gef<a>defdf+d
+B r1
+C a>c+<b>dc+e<a>c+d8c8<b-8a8
+
+A gdb-ag+dc+gf+c<b>e<a>d<g>c+
+B r2r8.>gf+8e8
+C b-8g8e8a8>d8<g8a4
+
+A d2&d4..
+B rgaef+4&f+4..
+C >d4&dc+d<ad4..
+
+ABC ]2
+
+
+ABC [
+
+A o5
+B o5
+C o3
+
+A l16 f+
+B l16 r
+C l16 r
+
+A f+8.g l32agagagf+gl16a4&acd<a
+B d8.r    r4  <f+a>ced8<a8
+C df+a>c <babg f+4&  f+8f+8
+
+A b>d+eg f+c<b>a gd+eg c32<b32>c8c
+B g8e4   d+8e4r4
+C g8c8<a8b8e4 r>ef+d
+
+A c<ab>e< a32g32a8a af+g>c <f32e32f8f
+B r1
+C g8<g8 r>c+d+<b>e8<e8 rabg>
+
+A fd+eagef+baf+g>c<bga>d
+B r1
+C c8c+8d8d+8 e8<e8f+8>f+8
+
+A c<ab>d g32f+32g32&g.g g<b>ce rgf+a
+B <r4 regb& b8g8 >a4&
+C g8<g8 r4>c4>c8<a8
+
+A d+8.e&e8ed+e4&e4&
+B aag8 f+a8. rbg8&g4
+C b8e8 b8<b8> e8.b> ec+d<b
+
+A e<abgaf+g>e<gef+a>c4&
+B r4r4r4f+4
+C >c+4r<ab>c+d4&d<af+d
+
+A c<ab>df4&f<b>cef+8g8
+B r4r>cd<bg4r>d8d&
+C g4& gabg> c4&c<ab>d
+
+A a8b8e8.agef+8<b8>e8
+B dd8d& d<b>c8& c8.<a& ag8g
+C <f+agbce<a>cd8<d4.
+
+A <f+dgdad>c<ab-dgab-gbg
+B r1
+C >rf+egf+adf+g8f8e-8d8
+
+A >c<g>e-d c+<gf>c< bfea dgcf+ 
+B r2r8.c<b-8a8
+C e-8c8<a8>d8g8c8d4
+
+A g2&g4..
+B r>cd<a b4&b4..
+C g4&gf+gd<g4..
+
+ABC ]2

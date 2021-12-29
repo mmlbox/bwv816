@@ -1,0 +1,73 @@
+;[gain=1.0 name=bwv816_6 duration=300s fade=5s cpu=0]
+#opll_mode 0
+#tempo 98
+#title {"BWV816 Loure"}
+
+@15={
+;       TL FB
+        24, 3,
+; AR DR SL RR KL MT AM VB EG KR WF
+  15, 3, 3, 1, 0, 5, 0, 0, 0, 1, 1,
+  15, 2, 1, 1, 0, 2, 0, 0, 0, 1, 1 }
+
+ABC l16@15v13 q7
+
+ABC [
+
+A o5
+B o4
+C o4
+
+A q8d8<q5b4
+B r8r4
+C r8r4
+
+A q8a4g2&g4.a8b4 a2.&a4.b8>c4
+B r4r8q8d8<q5b4q8a4g8f+8gb>dg f+2.&f+4.g8a4&
+C r1r4r4r4r8<<q8a8q5f+4q8e4d8>d8c4<
+
+A q8d4.g8q8e4d32c32d32c32&c4<b8>c<aq7b8> q8
+A c8<b32>c32<b32>c32<b8a8g4q7<b>g4&gq8b8>d4
+B a4g2&g4f+2             g2.r32d4&d. r8r4
+C q7b4>e4c4<a>c<bq7a>d4<d4 g4b4>d4g2r4<
+
+A q8g32f+32g4&ga8b4<e>d8.c+8e8a4 d+ef+ga>c<bagaf+8g2.
+B r2r4             r32a4...r4r2r2r8>e8c+4<
+C rgaq7b>cdeq7f+gbaq7g q8g4&gbagf+q7ge8 
+C f+4d+4<b4>regq7f+edc+q7decdq7e<
+
+A r4.e8f+4<q4a4b4>c+4 q8d2.&d4.
+B b4a2     q4g4f+4e4  q8f+2.&f+4.
+C f+8a8b8>c+8d8e8q4f+4<g4a4> q8d4.<q7a8q4f+4q8d4.
+
+ABC ]2 
+
+ABC [
+
+A o5
+B o4
+C o4
+
+A q8a8q5f+4q7
+B r4.
+C r4.
+
+A e4q8d2&d4.q7e8f+4      q8g2.&g4.q7a8b4>
+B r4r8a8q8f+4&f+4.q7g8a4 d8>d8<b8q8g8&g4&g4.q7c8d4&
+C r2.c2.            <b4.>d8<b4f2.
+
+A c<bag+a8.ef4c4<b8>f8e4 q8d8c32d32c32d32q7c8<b8a4a4&a>c<ba>e4<
+B d4c4a4&a2g+4 a2r1
+C e4f4d4e4b4>e4< a4e4c4<a4b4>c4<
+
+A q8f+4.q7a8>q8c4&c4<q7r4b4 a4.>e8q8a4&a4&aq7agf+g4
+B r4r4r4d4&df+edr8<q8b8 c4r4r4b2.
+C d8a8>d8ef+e8f+gf+8gad8f+8g4&g8g8f+8e8d+8e8d+8ef+<b8>d+8e8f+g
+
+A c<bagf+>edcd4< q4t94d4t88e4f+4  q8t83g2.&g4.
+B q8r2.          q4   c4< b4a4  q8     b2.&b4.
+C q8a4.q8f+8q7c4<q4   b4> c4d4< q8     g4.q5b8>d4q8g4.
+
+A t98
+
+ABC ]2

@@ -1,0 +1,125 @@
+;[gain=1.0 name=bwv816_5 duration=300s fade=5s cpu=0]
+#opll_mode 0
+#tempo 172
+#title {"BWV816 Bourree"}
+
+@15={
+;       TL FB
+        24, 3,
+; AR DR SL RR KL MT AM VB EG KR WF
+  15, 3, 3, 1, 0, 5, 0, 0, 0, 1, 1,
+  15, 2, 1, 1, 0, 2, 0, 0, 0, 1, 1 }
+
+AC @15v13
+A l16
+C l8
+
+AC [
+
+A o4
+C o4
+
+A q4 b8>d8
+C r4
+
+A q7g4.q4a8 q8bq7aq8bq7aq8bq7a gq7a
+C q4 rd<bgf+>c<af+
+
+A q6b4q5a8b8q4g4 q6d8<b8
+C gbgd<b>d<bg
+
+A >q4e4 q6c8<a8q4f+4 q8>d8<a8
+C >c<g>ecd<a>f+d
+
+A >c8<b8a8q7b8q8g8a8b8>d8
+C q8 g4d4<b4>d4
+
+A q8 g4.q7a8 q8bq7aq8bq7aq8bq7a gq7a
+C q8 <g>>q4d<bgf+>c<af+
+
+A q4b4q4a8b8g4 q8a8>q4c8
+C gbgd<b>gd<b
+
+A q4<b4q8e8q7g8q4a4 q8<b8>q7d8
+C gb>c+eq8f+a>q4d4
+
+A q4g4 q8c+8q7e8q4f+4 q8d8q7f+8
+C <ega>c+def+d
+
+A q4b4a4 q8g8f+8g8e8
+C q7gef+d q6a4<q4a4
+
+A d2.
+C q8>d<af+aq7d4
+
+AC ]2
+
+AC [
+
+A o5
+C o4
+
+A q4a8f+8
+C r4
+
+A q4d4.q6ef+ q8 f+gf+gf+g ef+
+C q5rd<af+daf+d
+
+A g2.q4d8g8
+C q8b>q4bq5gd<b>d<bg
+
+A >c4<d+8f+8b4e8g8
+C a>c<af+gbge
+
+A q8f+8q6e8q8d+8q6c+8<q4b4>a8f+8
+C q8b4>c+4q6d+f+bq4d+
+
+A <b4>g8e8<a+4> g8e8
+C egbdc+ebc+
+
+A <a4>f+8d+8<g+4>f8d+8
+C d+f+a>c<beg+b
+
+A q8e4f+4<q4b4>d+4
+C >cec<ab4<b4
+
+A q8e2.q4g8e8
+C q8e<bgbq7e4r4
+
+A <q8b4.>q4c8q8 dcdcdc <b>c
+C q5r>>e<bgegce
+
+A q4d4<b8>d8g4 b8g8
+C q8<b>q5bgd<b>d<gb
+
+A q7e4q4<a8>c8d4<g+8b8
+C q8ce>q4f4<q8b>dq4e4
+
+A >q7c4q4<b8>c8<a4>d8<a8
+C q5<a>cegf+af+d
+
+A q7b4q4g8b8>e4g8<b8
+C gd<b>d<gb>eg
+
+A >q7c4q4<a8>c8f+4a8c8
+C aece<a>cf+a
+
+A q7d4q4<b8>d8g4b8g8
+C bgdg<b>dgb
+
+A q8a8g8f+8e8q4d4g8d8
+C >dedc<b>d<bg
+
+A q7e4q4<a8>c8d4<e8g8
+C cef+a<q8b>dq4g4
+
+A >q7c4q4<f+8a8b4q8g8b8
+C <a>cdf+gd<b>d
+
+A >d8<b8>q4g4<q8b4a24b24a24q4g8
+C gd<bg>q6d4<q4d4
+
+A q6g2.
+C q6g2.
+
+AC ]2

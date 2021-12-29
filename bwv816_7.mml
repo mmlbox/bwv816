@@ -1,0 +1,125 @@
+;[gain=1.0 name=bwv816_7 duration=300s fade=5s cpu=0]
+#opll_mode 0
+#tempo 96
+#title {"BWV816 Gigue"}
+
+@15={
+;       TL FB
+        24, 3,
+; AR DR SL RR KL MT AM VB EG KR WF
+  15, 3, 3, 1, 0, 5, 0, 0, 0, 1, 1,
+  15, 2, 1, 1, 0, 2, 0, 0, 0, 1, 1 }
+
+#alloc {a=1300}
+
+ABC l16 @15v13 q7
+
+ABC [
+
+A o5
+B o4
+C o4
+
+A q5dq7
+B r
+C r
+
+A gbf+gq6bq7dgbf+gq6bq7d ec<g>q5g8q7cd<bg>q5g8q7<b> cdedec<b>dgbag
+B r2.r2.r4.r8.rrq6g>
+C r2.r2.r2.
+
+A q5f+8q7aq5a8q7aq5a8q7aq5a8q7a dgbbgddf+aaf+d d8.c+8.d8.f+8.
+B df+c+df+<a>df+c+df+<a bgd>q5d8<q7gaf+d>q5d8q7<f+ q6gababgf+a>cedc<
+C r2.r2.r4.r8.rrd
+
+A d8ab8>c<b8ag8g g2.&g8.f+8.g8.rrd
+B b8>dd8dd8dd8<b g>ceec<ggb>dd<bg a8.a8.g8.r8.
+C gbf+gq6bq7dgbf+gq6bq7d ec<g>q5g8q7cd<bg>q5g8q7<b> cdedec<b>d<ab>d<g>
+
+A egdeg<b>c8.rrg a>c<ga>c<ef+aef+ac+ df+c+df+<ab>dc+de<b>
+B r2.r2.r2.
+C c8<b>c8<ga>c<ga>c<e f+8ef+8a>df+c+df+<a b>d<ab>d<f+g8ed8g
+
+A c+edef+c+df+ef+ga q5a8r4f+8ef+8g f+8ed8dd4.&
+B r2. q7c+ea>c+eq6g<rraa8a a8aa8f+dgbbgd
+C a8f+g8ab8>c+d8<b rrrrr<a>df+c+df+<a> df+c+df+<abgd>q5d8q7<g
+
+A d4.&d8dq5c+8<q7b a8.q5b8q7ag8.q5a8q7g f+8ga8b c+8de8f+
+B df+aaf+de8.&e8.& e8d&d8.&d8c+&c+8. rd8&dd8r<a8&aa8>
+C af+d>q5d8q7<f+gababg f+gagaf+ef+gf+ge d8ef+8ga8b>c+8d<
+
+A g8ab8>c+<d8ef+8g q8a4.&a4.& aq7gd>q5d8q7<gaf+d>q5d8q7<f+
+B re8&ee8r<b8&bb8> rf+c+df+<a>df+c+df+<a brrr8.r8.rrd
+C e8f+g8ab8>c+d8e  f+8gf+8ef+8gf+8d dgbbgddf+aaf+d
+
+A gababgf+aga>c+<b> c+eggec+<a>c+egf+e t94f+edt92dec+ q8d8.&d8
+B e8.e8.d8rr8. r2.                       >rrb    a8g&gaf+d8
+C d8.c+8.d8ef+8g a>c+<aeaec+ec+<ab>c+     d8g    a8<adf+a>d8
+
+A t96
+
+ABC ]2
+
+ABC r8
+
+ABC [
+
+A o4
+B o3
+C o2
+
+A q6r
+B q6a
+C q6r
+
+A r2.r2.r2r8.d<
+B f+q4dq6gf+q4dq6af+q4dq6gf+q4dq6a f+a>c<q4d8q6bgb>d<q4e8q6>c< a>ce<f+>dc<badgd<b>
+C r2.r2.r2.
+
+A bq4g>q6c<bq4g>q6d<bq4g>q6c<bq4g>q6d< b>df<q4g8>q6eceg<q4a8>q6f dfa<b>gfe8.rrc<
+B r2.r2.r2.
+C g8>ed8<f+g8>ed8<f+ gb>d<bg>c<a>cec<a>d< b>dfd<b>dcegece<
+
+A a>cec<a>er8.r8. r4.r8.rrg
+B r8.r8.q4f+8q6>d q8<b32>c32<b32>c32<q6a gb>d<bgbq4e8>q8c<a8.&
+C f+8.rrab>df+d<b>d< e8.rrga>cec<a>c
+
+A f+dgf+daf+dgf+da f+a>c<q4d8q6bgb>d<q4e8q6>c< a>ce<f+>dc<b>dgdgb
+B a8q6ba8.&a8ba8.> r2.r2. 
+C d8.&d8c+d8.&d8c df+af+dgegbgea f+a>c<af+agb>d<b>dg
+
+A eg<b>ce<ga>cf+cf+a d+f+<ab>d+<f+gb>e<b>eg ce<g+a>cea8rr8.
+B r2. r2. r8.r8.ea>c<af+a
+C cegece<f+a>c<a>cf+< b>d+f+d+<b>d+<egbgb>e< a>cec<a>cr8.rr<e
+
+A rrgq8f+8.&f+8q6gq8f+8.& f+8.g8.&g8.a8.& a8.b8.&b4.&
+B b8.&b8ab8.&b8a b>d+f+d+<b>ec+egec+f+ d+f+af+d+f+egd+egd+
+C d+<b>ed+<b>f+d+<b>ed+<b>f+ d+f+a<q4b8q6>gegbq4c+8q6a f+a>c<d+bage<b>e<bg>
+
+A bq6g+afd+ec<g+afd+e d+f+a>c<b>d+ef+g<g>ed+ q8e4.&e4.&
+B e8rr8.r4. r4.r8.rr<a geagebgeageb
+C c8.&c<b>c<ab>c<ab>c <f+a>cd+f+agf+eb8<b> e8>c<b8d+e8>c<b8d+
+
+A e8.r8.r4. r8.redc<a>dc<a>e c<a>dc<a>ec+eg<q4a8>q6f+
+B g+b>d<q4e8>q6c<a>ce<q4f+8>q6d< b>df<g+8.rrfq8e8.&e8q6fq8e8.&er8r8.
+C eg+bg+eaf+a>c<af+b g+b>d<bg+ba8.&a8g+ a8.a8g+a>q6c+ec+<a>d<
+
+A df+a<q4b8>q6gegbc+ag f+dgf+daf+dgf+da f+a>c<q4d8q6begbq4c8q6a
+B r2.r2.r2.
+C b>df+d<b>ec+egece q4d8q6bq4a8q6c+q4d8q6bq4a8q6c df+af+dgcegecf+<
+
+A df+a<q4b8q6>gceg<a>ce< f+a>c<df+a>q8c8.&c8c& c8.&c8c&c8.&cq6<a>q8d&
+B r2. r8.r8.rrba8. q4d8q6ba8.df+af+8.
+C b>df+d<b>e<a>cec<a>c d<af+d8<af+dgf+da f+dgf+daf+a>c<q4d8q6b
+
+A d8.&dq6<b>q8e&e8.&eq6cf+  t95q8g8.&gq6fdq8e8.q6t93r<a>c< t87bagt81gaf+q8g8.&g8&
+B egbq8g8.q6f+a>c<q8a8.q6>     rd<bq8grrq6r>c<aq8   f+rr    q6rre   q8d8q6crq8d<bg8&
+C gb>d<q5e8>q6c<a>ce<f+>dc<    b>dgbgb>c<af+        df+a    q5g8q6c q5d8q6<dgb>d<g8&
+
+A g8
+B g8
+C g8
+
+A t96
+
+ABC ]2

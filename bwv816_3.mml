@@ -1,0 +1,193 @@
+;[gain=1.0 name=bwv816_3 duration=300s fade=5s cpu=0]
+#opll_mode 0
+#tempo 67
+#title {"BWV816 Sarabande"}
+
+@15={
+;       TL FB
+        24, 3,
+; AR DR SL RR KL MT AM VB EG KR WF
+  15, 3, 3, 1, 0, 5, 0, 0, 0, 1, 1,
+  15, 2, 1, 1, 0, 2, 0, 0, 0, 1, 1 }
+  
+#alloc {a=1000}
+
+ABC l16@15v13
+
+ABC [
+
+A o4
+B o3
+C o2
+
+A q8b32a32q7b&b4 >c8<q8b48a48b48q7a8q6g
+B q7r4g2&
+C g2>e4
+
+A >d4q8e32d32q6e4..
+B g4.g8a8b8
+C <b4>c2
+
+A <q8g8q7f+4>c8q8<b48>c48<b48>c48<b24&bq6a
+B >c4<a4g4&
+C a4f+4g4
+
+A a2.
+B g8e8f+8a8>d4
+C d2r8d8
+
+A >q8f+32e32q7f+&f+4 g8q8f+48e48f+48q7e8q6d
+B <r4a2
+C c2c4
+
+A g4q8c32<b32>q7c&c4dq6e
+B r8d8g2&
+C <b4>e4c4
+
+A <a4>d8.c<b8.>c
+B g4f+8e8f+4
+C d2.
+
+A q8<b l48>c<b>c<b>c<b>c<b>c<b>c<b&b16l16 q7a8q6g4
+B g2.
+C r4d4<g4
+
+A q6>b4.g8q8l48f+gf+gf+24&f+16l16q6e
+B r8b8>e4d4
+C >g2. &
+
+A a4d4.f+8
+B c+4r8<a8>d4
+C g8g8f+2
+
+A <b4&b>q7dc+<b>egf+e
+B <g2.
+C r8f+8e8d8c+8<b8
+
+A q8q8c+l48dc+dc+dc+&c+8.l16<q6b8a4
+B g8e8a8g8f+4
+C a2r8>d8
+
+
+A q8g48a48g48f+q7g8 >e4.dc+
+B e4&e8e8a4&
+C r8d8c+4.<b8
+
+A q8g8f+q6e a8.f+t62e8q7d8&
+B a8d8c+4 d8e8
+C a4.g8 f+4&
+
+A d8.<b> t67q8l48dc+dc+dc+dc+dc+dc+&c+8l16q8d8
+B f+4 e8f+8g4&
+C f+8g8 a2
+
+A d2.
+B g8f+ef+4r4
+C > d4.d8<d4
+
+ABC ]2
+
+ABC [
+
+A o5
+B o4
+C o3
+
+A q6f+4.g8a8.f+
+B r4d2&
+C d2>c4
+
+A d4q8g4.aq6b
+B d8d8c8<b4.
+C <b2a8g8
+
+A e4.d8q8c48d48c48d48c24&c<q6b
+B >c4.<b8a8g+8
+C r8c8d4e4
+
+A q8>c4.<b8q6a4
+B a4r4r4 
+C r8e8<a8b8>c8e8
+
+A q8>>c4.<baq6b8.e
+B r8>c8f+4r8<b8
+C a4.a8g4 
+
+A q8e8l48d+ed+ed+24&d+8l16eq6f+<b8.>a
+B r8a8>c4<f+4
+C f+4.e8d+4
+
+A g8.q8f+ d+16e48d+48e48d+48e48d+48&d+8.e8
+B e8f+8&f+8g8a4&
+C e8<a8b2>
+
+A q8e2.
+B a8gf+g4r4
+C e4.e8<e4
+
+A <q8b32a32q7b&b4 >c8<q8b48a48b48q7a8q6g
+B g2.&
+C >e4d4c4
+
+A >q8f32e32q6f8. q8f4q7e4
+B g4.e8f8g8
+C <b4>c2
+
+A q8d8.c32<q7b32> q8a8.gfedq6c
+B a8b8>c2&
+C f4.e8a8f8
+
+A e4q8d48e48d48cq7d8c4
+B c4<b4>c4
+C g2c4&
+
+A <b8a4 b8q8a48g48a48g8q7f+
+B <f+2.
+C c8e8d8c8<b8a8
+
+A >d4q8d4q8e48d48e48&e8.
+B g2r4
+C b8>d8c8<b8a8g8
+
+A q8<def+gab>c<q7a q8b24a24q7g24 q8a24g24q7f+24
+B r8<a8>d4.e8
+C f+4.f+8g8>c8
+
+A q8g4f+48g48f+48g48f+24&f+eq7d4
+B d8b8a8g8f+4&
+C d2&d8c8
+
+A >q8d48c48q7d48&d4&de8q8d48c48d48q7c8<b
+B f+8d8g2&
+C <b4.b8a8g8
+
+A >e4 e12f+12g24.q8f+48g48f+48g48f+48g48f+48q7 ef+
+B g8e8a2
+C >c4.<a8>d8c8
+
+A q8g4&g8aq7b q8af+q7g8
+B r8d8r8e8a4&
+C <b4>c+4.<a8
+
+A q8f+48&f+48g48f+48g48f+48g48f+48g48f+24.&f+8 q7e8d4
+B a8a8>d8c8<b8a8
+C >d2.
+
+A q8c48d48c48<b>c8< f+4.ga
+B g4a4r4
+C q8e8d8c8<b8a8g8
+
+A q8d8ef+gab>q7c q8dgf+q7e
+B r4r8c8<b8>c8
+C q8f+8>c8<b8a8g8a8
+
+A q8d24c24<q7b24>q8e24d24q7c24<q8b4 a48b48a48&a8g
+B d8g8&g8e8 f+8>c8&
+C b8>c8d2
+
+A g2.
+B c8<bab4r4
+C g4.g8<g4
+
+ABC ]2
+
